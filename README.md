@@ -1,5 +1,3 @@
-# ubbistvo_s_python
-
 # ubiistvo
 
 A simple CLI load testing tool.
