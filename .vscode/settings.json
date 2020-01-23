@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/home/cloud_user/.local/share/virtualenvs/ubiistvo-vOiVFDJs/bin/python"
+    "python.pythonPath": "/home/cloud_user/.local/share/virtualenvs/ubiistvo-vOiVFDJs/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
 }
